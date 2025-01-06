@@ -42,4 +42,4 @@ Here are some of my GitHub stats:
 
 ---
 
-> "The only way to do great work is to love what you do." — Steve Jobs
+> "Crafting code, learning always"
