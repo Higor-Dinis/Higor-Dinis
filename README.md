@@ -27,7 +27,7 @@ Here are some of the technologies I use most frequently:
 Here are some of the projects I am working on or have worked on:
 
 - [**Eliptic**](https://github.com/HigorDinis/Eliptic) - A programming language project that explores **compiler concepts** and **language syntax**.
-- 
+
 ## 📫 How to reach me
 
 You can find or contact me through:
